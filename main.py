@@ -1,3 +1,4 @@
+#moved to WSL: Ubuntu from Windows pathway
 import stats
 
 def get_book_text(path="books/frankenstein.txt"):
